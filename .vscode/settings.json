@@ -1,0 +1,17 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": { "other": false, "comments": false, "strings": false },
+    "python.linting.enabled": false,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": false,
+    "python.linting.pycodestyleEnabled": false,
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.enabled": false,
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportUndefinedVariable": "none",
+        "reportMissingImports": "none",
+        "reportUnusedVariable": "none",
+        "reportGeneralTypeIssues": "none"
+    }
+}
