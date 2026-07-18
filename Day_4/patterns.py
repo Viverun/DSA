@@ -38,3 +38,36 @@
 #         print(j, end=' ')
 #     print()
 
+# Half Diamond
+# for i in range(1,6):
+#     for j in range(1,i):
+#         print(' *', end='')
+#     print()
+# for k in range(6, 0, -1):
+#     for l in range(1,k):
+#         print(' *', end='')
+#     print()
+
+# # Pyramid
+# n = 5
+# for i in range(1,6):
+#     for k in range(n-i):
+#         print(' ', end='')
+#     for j in range(0,i):
+#         print(' *', end='')
+#     print()
+
+# # Diamond
+# n = 5
+# for i in range(1,6):
+#     for k in range(n-i):
+#         print(' ', end='')
+#     for j in range(0,i):
+#         print(' *', end='')
+#     print()
+# for i in range(4,0, -1):
+#     for k in range(n-i):
+#         print(' ', end='')
+#     for j in range(0,i):
+#         print(' *', end='')
+#     print()
